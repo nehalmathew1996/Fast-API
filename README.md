@@ -8,6 +8,7 @@
 5. write code in a file say app.py
 
 **To Run app**
+
 7. uvicorn app:app --reload
 
 
