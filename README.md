@@ -12,4 +12,6 @@
 7. uvicorn app:app --reload
 
 
-To get swagger documentation - {endpoint}/docs
+**To get swagger documentation -** 
+
+{endpoint}/docs
